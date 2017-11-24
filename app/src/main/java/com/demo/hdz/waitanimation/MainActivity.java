@@ -57,7 +57,7 @@ public class MainActivity extends Activity {
         m_animOuterCircle.setInterpolator(new LinearInterpolator()); //匀速动画
 
 
-        ImageView imgView = (ImageView) findViewById(R.id.frameAnimWait);
+        ImageView imgView = (ImageView) findViewById(R.id.frameAnim);
         m_frameAnim = (AnimationDrawable) imgView.getBackground();
 
         //开始动画
