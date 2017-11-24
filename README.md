@@ -160,8 +160,11 @@ pivotY      : 旋转中心位置
     m_frameAnim.stop();  //停止动画
 ```
 
+## Demo源代码地址
+[https://github.com/dezhihuang/WaitAnimation](https://github.com/dezhihuang/WaitAnimation)
 
 
-
-
+## Demo结果
+Demo演示结果如下，上面一个图为内外两个圆所组成的旋转动画，下面一个图为多个图片组成的逐帧动画。
+![](./demo.png)
 
