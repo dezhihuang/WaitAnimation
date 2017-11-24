@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">等待动画</string>
+    <string name="btnStart">开始</string>
+    <string name="btnStop">停止</string>
+</resources>
